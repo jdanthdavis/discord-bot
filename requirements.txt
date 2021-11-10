@@ -1,0 +1,9 @@
+discord.py
+asyncio
+youtube_dl==2021.06.06
+PyNaCl
+python-dotenv
+requests
+pymongo
+pymongo[srv]
+dnspython
