@@ -10,16 +10,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/jdanthdavis/vvega-discord-bot">
+  <a href="https://github.com/jdanthdavis/discord-bot">
     <img src="images/vr.png" alt="Logo" width="80" height="80">
   </a>
 
 <h2 align="center">Discord Bot</h2>
   <p align="center">
     <br />
-    <a href="https://github.com/jdanthdavis/vvega-discord-bot/issues">Report Bug</a>
+    <a href="https://github.com/jdanthdavis/discord-bot/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jdanthdavis/vvega-discord-bot/issues">Request Feature</a>
+    <a href="https://github.com/jdanthdavis/discord-bot/issues">Request Feature</a>
   </p>
 </div>
 
@@ -86,7 +86,7 @@ Don't forget to give the project a star! Thanks again!
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Project Link: [https://github.com/jdanthdavis/vvega-discord-bot](https://github.com/jdanthdavis/vvega-discord-bot)
+Project Link: [https://github.com/jdanthdavis/discord-bot](https://github.com/jdanthdavis/discord-bot)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -98,14 +98,14 @@ Project Link: [https://github.com/jdanthdavis/vvega-discord-bot](https://github.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/jdanthdavis/vvega-discord-bot.svg?style=for-the-badge
-[contributors-url]: https://github.com/jdanthdavis/vvega-discord-bot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jdanthdavis/vvega-discord-bot.svg?style=for-the-badge
-[forks-url]: https://github.com/jdanthdavis/vvega-discord-bot/network/members
-[stars-shield]: https://img.shields.io/github/stars/jdanthdavis/vvega-discord-bot.svg?style=for-the-badge
-[stars-url]: https://github.com/jdanthdavis/vvega-discord-bot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jdanthdavis/vvega-discord-bot.svg?style=for-the-badge
-[issues-url]: https://github.com/jdanthdavis/vvega-discord-bot/issues
+[contributors-shield]: https://img.shields.io/github/contributors/jdanthdavis/discord-bot.svg?style=for-the-badge
+[contributors-url]: https://github.com/jdanthdavis/discord-bot/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jdanthdavis/discord-bot.svg?style=for-the-badge
+[forks-url]: https://github.com/jdanthdavis/discord-bot/network/members
+[stars-shield]: https://img.shields.io/github/stars/jdanthdavis/discord-bot.svg?style=for-the-badge
+[stars-url]: https://github.com/jdanthdavis/discord-bot/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jdanthdavis/discord-bot.svg?style=for-the-badge
+[issues-url]: https://github.com/jdanthdavis/discord-bot/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/justin-davis-514827195/
 [product-screenshot]: images/screenshot.png
